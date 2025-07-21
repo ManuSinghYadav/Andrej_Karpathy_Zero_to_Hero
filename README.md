@@ -27,4 +27,3 @@ All credit for the teaching and original ideas goes to [Andrej Karpathy](https:/
 ---
 
 Feel free to fork, star, or reach out if you're on the same learning path!
-
